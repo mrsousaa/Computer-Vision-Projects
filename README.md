@@ -1,7 +1,7 @@
 # Computer-Vision-Projects
-==========================================
+==
 By Luis Sosa      
-------------------------------------------
+--
 
 Here are a list of projects I have worked on relating to machine learning and computer vision. 
 
