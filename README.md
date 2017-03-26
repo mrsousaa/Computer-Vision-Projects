@@ -1,5 +1,5 @@
 # Computer-Vision-Projects
-==
+
 By Luis Sosa      
 --
 
